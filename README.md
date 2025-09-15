@@ -1,4 +1,4 @@
-Dual Mode Terracopter 
+# Dual Mode Terracopter 
 
 A hybrid drone system capable of operating in both **aerial** and **ground** modes. Designed for rugged terrains and autonomous navigation, this dual-mode vehicle switches seamlessly between flying and driving functionalities.
 
@@ -31,5 +31,5 @@ A hybrid drone system capable of operating in both **aerial** and **ground** mod
 - **PCB Design:** : Proteus
 - **Soldering & Assembly:** Manual prototyping
 
-## Drive Link: (for documentation ,research paper,report)
+**Drive Link: (for documentation ,research paper,report)**
 https://drive.google.com/drive/folders/1lQT9-ju1O-OQpHU_eAtr6HX2qNt-J1fy?usp=drive_link
